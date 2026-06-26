@@ -8,6 +8,8 @@ Détail des fichiers :
 
 **montecarlo.py** : script qui permet de traiter les incertitudes et d'obtenir une régression à partir d'un jeu de données, basé sur la méthode de Monte-Carlo 
 
+**CAO** : Ensemble des fichiers stl utilisés pour l'impression 3d des vertèbres 
+
 Membres : 
 Marif Taha 
 
